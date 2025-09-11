@@ -104,7 +104,3 @@ Assignment2/
 - **Simulation of UDP sockets** – No real network connection  
 
 ---
-
-## 🎓 Note
-This project was developed as part of the **CMPE 472 – Computer Networks** course.  
-It is a **simulation assignment** and does **not use the Python socket library**.  
